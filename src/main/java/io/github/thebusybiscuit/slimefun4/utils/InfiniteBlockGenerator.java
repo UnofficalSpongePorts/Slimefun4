@@ -14,7 +14,6 @@ import org.bukkit.block.BlockFace;
 import org.bukkit.block.BlockState;
 import org.bukkit.event.block.BlockFormEvent;
 
-import io.github.thebusybiscuit.slimefun4.api.MinecraftVersion;
 import io.github.thebusybiscuit.slimefun4.implementation.items.androids.MinerAndroid;
 import io.papermc.lib.PaperLib;
 

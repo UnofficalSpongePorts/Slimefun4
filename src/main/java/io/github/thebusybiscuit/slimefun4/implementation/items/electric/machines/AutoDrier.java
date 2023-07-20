@@ -5,7 +5,6 @@ import java.util.List;
 
 import javax.annotation.ParametersAreNonnullByDefault;
 
-import io.github.thebusybiscuit.slimefun4.api.MinecraftVersion;
 import io.github.thebusybiscuit.slimefun4.implementation.Slimefun;
 import org.bukkit.Material;
 import org.bukkit.Tag;

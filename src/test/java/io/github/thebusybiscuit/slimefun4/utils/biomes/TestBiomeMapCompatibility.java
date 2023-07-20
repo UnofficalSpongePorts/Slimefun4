@@ -25,7 +25,6 @@ import org.junit.jupiter.params.provider.MethodSource;
 import com.google.gson.JsonArray;
 import com.google.gson.JsonElement;
 
-import io.github.thebusybiscuit.slimefun4.api.MinecraftVersion;
 import io.github.thebusybiscuit.slimefun4.implementation.Slimefun;
 import io.github.thebusybiscuit.slimefun4.utils.JsonUtils;
 

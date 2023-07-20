@@ -8,8 +8,6 @@ import javax.annotation.ParametersAreNonnullByDefault;
 import org.bukkit.Material;
 import org.bukkit.inventory.ItemStack;
 
-import io.github.thebusybiscuit.slimefun4.api.MinecraftVersion;
-
 /**
  * Simple interface to map ore blocks to their respective item(s).
  * 

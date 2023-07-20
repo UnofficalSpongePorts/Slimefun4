@@ -13,7 +13,6 @@ import org.bukkit.block.data.BlockData;
 import org.bukkit.block.data.type.GlassPane;
 
 import io.github.bakedlibs.dough.collections.LoopIterator;
-import io.github.thebusybiscuit.slimefun4.api.MinecraftVersion;
 import io.github.thebusybiscuit.slimefun4.api.items.SlimefunItem;
 import io.github.thebusybiscuit.slimefun4.implementation.Slimefun;
 import io.github.thebusybiscuit.slimefun4.implementation.items.blocks.RainbowBlock;

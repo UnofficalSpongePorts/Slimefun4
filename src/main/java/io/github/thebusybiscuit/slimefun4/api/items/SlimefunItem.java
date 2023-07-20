@@ -24,7 +24,6 @@ import org.bukkit.permissions.Permission;
 
 import io.github.bakedlibs.dough.collections.OptionalMap;
 import io.github.bakedlibs.dough.items.ItemUtils;
-import io.github.thebusybiscuit.slimefun4.api.MinecraftVersion;
 import io.github.thebusybiscuit.slimefun4.api.SlimefunAddon;
 import io.github.thebusybiscuit.slimefun4.api.SlimefunBranch;
 import io.github.thebusybiscuit.slimefun4.api.exceptions.IdConflictException;

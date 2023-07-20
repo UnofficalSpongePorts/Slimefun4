@@ -26,7 +26,6 @@ import org.bukkit.inventory.ItemStack;
 import io.github.bakedlibs.dough.common.ChatColors;
 import io.github.bakedlibs.dough.config.Config;
 import io.github.bakedlibs.dough.items.CustomItemStack;
-import io.github.thebusybiscuit.slimefun4.api.MinecraftVersion;
 import io.github.thebusybiscuit.slimefun4.api.SlimefunBranch;
 import io.github.thebusybiscuit.slimefun4.api.recipes.RecipeType;
 import io.github.thebusybiscuit.slimefun4.core.services.LocalizationService;
