@@ -4,6 +4,7 @@ on:
   push:
     branches:
     - master
+    - sponge
     paths:
     - 'src/**'
     - 'pom.xml'
